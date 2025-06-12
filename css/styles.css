@@ -10846,6 +10846,15 @@ header.masthead {
   padding-top: 8rem;
   padding-bottom: 8rem;
 }
+header.masthead2 {
+  position: relative;
+  background-color: #343a40;
+  background: url("../assets/img/yellow.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
 header.masthead:before {
   content: "";
   position: absolute;
